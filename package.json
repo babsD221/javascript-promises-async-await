@@ -43,6 +43,8 @@
     ]
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "data": "^0.6.1",
+    "lodash": "^4.17.15",
+    "movies": "^1.0.0"
   }
 }
